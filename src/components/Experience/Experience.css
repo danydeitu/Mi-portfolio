@@ -1,0 +1,65 @@
+.Experience-container{
+background-color:lightgray;
+color: black;
+text-align: center;
+margin: auto;
+}
+
+.Experience-Proyectos {
+  
+    display: flex;
+   
+
+}
+
+.title {
+    display: flex;
+}
+.title > h2 {
+    text-align: center;
+}
+ 
+
+.Proyecto1 {
+    margin: auto;
+    border-radius: 2px;
+    padding: 2px;
+    cursor:pointer;
+}
+.Proyecto2 {
+    margin: auto;
+    border-radius: 2px;
+    padding: 2px;
+    cursor:pointer;
+
+}
+.Proyecto3 {
+    margin: auto;
+    border-radius: 2px;
+    padding: 2px;
+    cursor:pointer;
+}
+.Proyecto4 {
+    margin: auto;
+    border-radius: 2px;
+    padding: 2px;
+    cursor:pointer;
+}
+.Proyecto5 {
+    margin: auto;
+    border-radius: 2px;
+    padding: 2px;
+    cursor:pointer;
+}
+@media (max-width: 760px) {
+    .Experience-container{
+      display:block;
+    }
+  .Experience-Proyectos{
+      display:block;
+      align-content:stretch;
+  }
+  img {
+      width:100%;
+  }
+}
