@@ -25,7 +25,7 @@ const Experience = () => {
 <img src="././img/noCountryCinenema.jpg"  width={150} height ={200} alt="noCountryCinema"/>
       </div>
       <div className="Proyecto2">
-<img src="././img/colmena.jpg" width={150} height ={150} alt="colmena"/>
+<img src="././img/colmena.jpg" width={150} height ={200} alt="colmena"/>
       </div>
       <div className="Proyecto3">
 <img src="././img/mercadoLiebre.jpg" width={150} height ={200} alt="mercadoLiebre"/>

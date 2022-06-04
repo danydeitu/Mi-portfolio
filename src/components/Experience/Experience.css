@@ -1,19 +1,29 @@
 .Experience-container{
+    display:block;
+    flex-direction:row;
 background-color:lightgray;
-color: black;
-text-align: center;
-margin: auto;
+
+width:100%;
+}
+.Experience-container >h3{
+    text-align: center;
+}
+.Experience-container >h4{
+    text-align: center;
 }
 
+
 .Experience-Proyectos {
-  
+ 
     display: flex;
+    flex-direction:row;
    
 
 }
 
 .title {
     display: flex;
+ 
 }
 .title > h2 {
     text-align: center;
