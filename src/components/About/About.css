@@ -1,7 +1,7 @@
 .About-container{
 display:flex;
   color:black;
-  background-color:white;
+  background-color:whitesmoke;
   height: 80vh;
 
   width:100%;
@@ -47,7 +47,7 @@ display:flex;
             display:flex;
             width:100%;
             height: auto;
-            background-color: rgb(204, 206, 203);
+            background-color:whitesmoke;
            
           }
         .about-desc {

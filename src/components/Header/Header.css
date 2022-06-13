@@ -31,10 +31,13 @@ font-size: 100px;
     display:flex;
     font-size: 70px;
     text-align: center;
+
+   
   }
   .header-container > h2{
     font-size: 20px;
   text-align: center;
+
   
   }
   .header-container > p {

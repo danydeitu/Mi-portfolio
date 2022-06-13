@@ -1,7 +1,7 @@
 .Experience-container{
     display:block;
     flex-direction:row;
-background-color:lightgray;
+background-color:whitesmoke;
 
 width:100%;
 }
@@ -16,7 +16,9 @@ width:100%;
 .Experience-Proyectos {
  
     display: flex;
-    flex-direction:row;
+    flex-direction:initial;
+  height: 45vh;
+    align-content: stretch;
    
 
 }
@@ -61,15 +63,17 @@ width:100%;
     padding: 2px;
     cursor:pointer;
 }
-@media (max-width: 760px) {
+@media (max-width: 865px) {
     .Experience-container{
       display:block;
     }
   .Experience-Proyectos{
       display:block;
       align-content:stretch;
+      text-align: center;
   }
   img {
-      width:100%;
+    
+      width:85%;
   }
 }
