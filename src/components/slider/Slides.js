@@ -11,28 +11,29 @@ const slidesInfo = [
   },
   {
     src:
+      "/img/colmena.jpg",
+    alt: "Projecto 2",
+    desc: "E-commerce de Miel",
+  },
+  {
+    src:
       "/img/mercadoLiebre.jpg",
-    alt: "Projecto ",
+    alt: "Projecto 3",
     desc: "E-commerce MercadoLiebre",
   },
   {
     src:
       "/img/gifExpert.jpg",
-    alt: "Projecto 3",
+    alt: "Projecto 4",
     desc: "App Giff Expert",
   },
   {
     src:
       "/img/app-tareas.jpg",
-    alt: "Projecto 4",
+    alt: "Projecto 5",
     desc: "App tareas",
   },
-  {
-    src:
-      "/img/colmena.jpg",
-    alt: "Projecto 5",
-    desc: "E-commerce de Miel",
-  },
+
 ];
 
 const slides = slidesInfo.map((slide) => (
