@@ -44,7 +44,8 @@
   }
   
   .sns-links {
-    display: grid;
+    display: flex;
+    justify-content: space-between;
     width: 100%;
     height: 90%;
     grid-template-columns: 1fr 1fr 1fr;
@@ -53,7 +54,8 @@
   
   .linkedin,
   .github,
-  .google {
+  .google,
+  .whatsapp {
     color: white;
     font-size: 45px;
     margin: 0 auto;
@@ -63,7 +65,8 @@
   
   .linkedin:hover,
   .github:hover,
-  .google:hover {
+  .google:hover,
+  .whatsapp:hover {
     border-color: white;
     transition: all 0.3s ease-out;
   }

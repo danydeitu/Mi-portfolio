@@ -9,7 +9,7 @@ const Footer = () => {
         <p>San Miguel Bs. As.</p>
       </div>
       <div className="footer-contact">
-        <h3>Contacto por</h3>
+        <h3>Contacto 011 1530118854</h3>
         <p>Mis Redes Sociales</p>
       </div>
       <div className="footer-sns">
@@ -23,6 +23,9 @@ const Footer = () => {
           </a>
           <a href="mailto:danydeitu18@gmail.com"  target="_blank" rel="noreferrer">
             <i className="fab fa-google google"></i>
+          </a>
+          <a href="https://wa.me/5491130118854" target="_blank" rel="noreferrer">
+          <i className="fab fa-whatsapp whatsapp"></i>
           </a>
           
         </div>
