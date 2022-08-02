@@ -7,13 +7,12 @@ const Footer = () => {
       <div className="footer-info">
         <h3>Daniel Rodriguez</h3>
         <p>San Miguel Bs. As.</p>
+        <p>Contacto 011 1530118854</p>
       </div>
-      <div className="footer-contact">
-        <h3>Contacto 011 1530118854</h3>
-        <p>Mis Redes Sociales</p>
-      </div>
+      
+     
       <div className="footer-sns">
-        <div className="design-by">Diseñado por D@niel</div>
+        <div className="design-by">Mis Redes Sociales</div>
         <div className="sns-links">
           <a href="https://www.linkedin.com/in/daniel-alberto-rodriguez/" target="_blank" rel="noreferrer">
             <i className="fab fa-linkedin linkedin"></i>
@@ -29,6 +28,10 @@ const Footer = () => {
           </a>
           
         </div>
+        <div className="footer-contact">
+        
+        <p>Diseñado por D@niel</p>
+      </div>
       </div>
     </footer>
   );
