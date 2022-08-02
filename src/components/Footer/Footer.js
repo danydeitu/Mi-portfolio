@@ -20,6 +20,7 @@ const Footer = () => {
           <a href="https://github.com/danydeitu" target="_blank" rel="noreferrer">
             <i className="fab fa-github github" ></i>
           </a>
+          
           <a href="mailto:danydeitu18@gmail.com"  target="_blank" rel="noreferrer">
             <i className="fab fa-google google"></i>
           </a>
