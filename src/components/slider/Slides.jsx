@@ -17,13 +17,13 @@ const slidesInfo = [
   src:
   "/img/gifExpert.jpg",
 alt: "Projecto 2",
-desc: <a href="giff-expert.vercel.app">App Giff Expert</a>
+desc: <a href="https://giff-expert.vercel.app/">App Giff Expert</a>
 },
 {
   src:
     "/img/app-tareas.jpg",
   alt: "Projecto 3",
-  desc: <a href="https://tareas-app-xi.vercel.app/">App Tares</a>
+  desc: <a href="https://tareas-app-topaz.vercel.app/">App Tares</a>
 },
   
   {

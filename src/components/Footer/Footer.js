@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer-info">
         <h3>Daniel Rodriguez</h3>
         <p>San Miguel Bs. As.</p>
-        <p>Contacto 011 1530118854</p>
+        <p>Telefono +54 011 30118854</p>
       </div>
       
      
