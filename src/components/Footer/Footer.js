@@ -5,7 +5,6 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-info">
-        <h3>Daniel Rodriguez</h3>
         <p>San Miguel Bs. As.</p>
         <p>Telefono +54 011 40941119</p>
       </div>
