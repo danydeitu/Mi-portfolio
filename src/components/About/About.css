@@ -27,7 +27,7 @@
 
 .about-img {
   width: 45%;
-  height:150%;
+  height:58vh;
   display: flex;
   align-self: center;
   overflow: hidden;
@@ -59,8 +59,7 @@
     width: 100%;
     margin-bottom: 50px;
   }
-
-  .about-img > img {
+.about-img > img {
     width: 100%;
   }
 }

@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 import Cover from "./components/cover/Cover";
-import Navbar from "./components/navbar/Navbar";
-import About from "./components/about/About";
+import Navbar from "./components/Navbar/Navbar";
+import About from "./components/About/About";
 import Slider from "./components/slider/Slider";
 import Info from "./components/info/Info";
-import Footer from "./components/footer/Footer";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   const [scrollHeight, setScrollHeight] = useState(0);

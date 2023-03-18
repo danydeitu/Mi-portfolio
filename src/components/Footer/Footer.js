@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer-info">
         <h3>Daniel Rodriguez</h3>
         <p>San Miguel Bs. As.</p>
-        <p>Telefono +54 011 30118854</p>
+        <p>Telefono +54 011 40941119</p>
       </div>
       
      
@@ -24,14 +24,14 @@ const Footer = () => {
           <a href="mailto:danydeitu18@gmail.com"  target="_blank" rel="noreferrer">
             <i className="fab fa-google google"></i>
           </a>
-          <a href="https://wa.me/5491130118854" target="_blank" rel="noreferrer">
+          <a href="https://wa.me/5491140941119" target="_blank" rel="noreferrer">
           <i className="fab fa-whatsapp whatsapp"></i>
           </a>
           
         </div>
         <div className="footer-contact">
         
-        <p>Diseñado por D@niel</p>
+        <p>©Diseñado por Dany</p>
       </div>
       </div>
     </footer>
