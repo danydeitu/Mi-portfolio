@@ -6,6 +6,15 @@ const slidesInfo = [
   {
    
     src:
+      "/img/",
+    alt: "Bazar-tech",
+    desc: <a href="https://ecommerce-tech-danydeitu.vercel.app/">Bazar Tech</a>
+  
+   
+  },
+  {
+   
+    src:
       "/img/sol.jpg",
     alt: "Projecto 1",
     desc: <a href="https://solylunacasadecampo.com/">Alquiler de Casa</a>
